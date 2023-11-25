@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "activity-not-active.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

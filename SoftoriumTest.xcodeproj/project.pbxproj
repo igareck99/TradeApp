@@ -11,6 +11,39 @@
 		8B249E582B0D840200F0BB24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E572B0D840200F0BB24 /* ContentView.swift */; };
 		8B249E5A2B0D840300F0BB24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B249E592B0D840300F0BB24 /* Assets.xcassets */; };
 		8B249E5D2B0D840300F0BB24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B249E5C2B0D840300F0BB24 /* Preview Assets.xcassets */; };
+		8B249E682B0D852B00F0BB24 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E672B0D852B00F0BB24 /* OnboardingView.swift */; };
+		8B249E6A2B0D853900F0BB24 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E692B0D853900F0BB24 /* OnboardingViewModel.swift */; };
+		8B249E6C2B0D854500F0BB24 /* OnboardingBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E6B2B0D854500F0BB24 /* OnboardingBuilder.swift */; };
+		8B249E6E2B0D857400F0BB24 /* OnboardingViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E6D2B0D857400F0BB24 /* OnboardingViewState.swift */; };
+		8B249E732B0D876300F0BB24 /* LoaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E722B0D876300F0BB24 /* LoaderView.swift */; };
+		8B249E762B0D88E600F0BB24 /* Colors+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E752B0D88E600F0BB24 /* Colors+Extension.swift */; };
+		8B249E782B0D98A800F0BB24 /* LoaderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E772B0D98A800F0BB24 /* LoaderViewModel.swift */; };
+		8B249E842B0D9E4600F0BB24 /* TradeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E832B0D9E4600F0BB24 /* TradeView.swift */; };
+		8B249E862B0D9E6600F0BB24 /* TopTradersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E852B0D9E6600F0BB24 /* TopTradersView.swift */; };
+		8B249E892B0D9E7900F0BB24 /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E882B0D9E7900F0BB24 /* Tabs.swift */; };
+		8B249E8B2B0D9EA100F0BB24 /* TabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E8A2B0D9EA100F0BB24 /* TabsView.swift */; };
+		8B249E8D2B0D9EF500F0BB24 /* TabsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E8C2B0D9EF500F0BB24 /* TabsViewModel.swift */; };
+		8B249E8F2B0EAD6900F0BB24 /* TabsBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E8E2B0EAD6900F0BB24 /* TabsBuilder.swift */; };
+		8B249E9D2B0EBE5600F0BB24 /* TraderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E9C2B0EBE5600F0BB24 /* TraderData.swift */; };
+		8B249E9F2B0EBEEF00F0BB24 /* TopTradersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B249E9E2B0EBEEF00F0BB24 /* TopTradersViewModel.swift */; };
+		8BC9A75D2B0EEE5300EE71A5 /* TradeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A75C2B0EEE5300EE71A5 /* TradeButton.swift */; };
+		8BC9A75F2B0EF0B500EE71A5 /* CurrencyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A75E2B0EF0B500EE71A5 /* CurrencyView.swift */; };
+		8BC9A7612B0EF33F00EE71A5 /* InvestmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7602B0EF33F00EE71A5 /* InvestmentView.swift */; };
+		8BC9A7632B0EF3EE00EE71A5 /* TradersBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7622B0EF3EE00EE71A5 /* TradersBuilder.swift */; };
+		8BC9A7652B0FA76800EE71A5 /* HelperFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7642B0FA76800EE71A5 /* HelperFunc.swift */; };
+		8BC9A7672B0FAE6000EE71A5 /* Numeric+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7662B0FAE6000EE71A5 /* Numeric+Extension.swift */; };
+		8BC9A7692B0FAE8C00EE71A5 /* Formatter+Extnesion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7682B0FAE8C00EE71A5 /* Formatter+Extnesion.swift */; };
+		8BC9A76B2B0FAEA300EE71A5 /* Locale+Extension .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A76A2B0FAEA300EE71A5 /* Locale+Extension .swift */; };
+		8BC9A76D2B0FB1DF00EE71A5 /* TraderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A76C2B0FB1DF00EE71A5 /* TraderViewModel.swift */; };
+		8BC9A7702B0FB32300EE71A5 /* CurrencyPairView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A76F2B0FB32300EE71A5 /* CurrencyPairView.swift */; };
+		8BC9A7722B0FB4D800EE71A5 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7712B0FB4D800EE71A5 /* View+Extension.swift */; };
+		8BC9A7742B0FB5A400EE71A5 /* CurrencyCases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7732B0FB5A400EE71A5 /* CurrencyCases.swift */; };
+		8BC9A7762B0FB7C300EE71A5 /* CurrencyPairViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7752B0FB7C300EE71A5 /* CurrencyPairViewModel.swift */; };
+		8BC9A77A2B0FBAC200EE71A5 /* CurrencyBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7792B0FBAC200EE71A5 /* CurrencyBuilder.swift */; };
+		8BC9A7812B0FD1C800EE71A5 /* Font + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7802B0FD1C800EE71A5 /* Font + Extension.swift */; };
+		8BC9A7832B100E8A00EE71A5 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7822B100E8A00EE71A5 /* WebView.swift */; };
+		8BC9A7872B102E3400EE71A5 /* InvestmentTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A7862B102E3400EE71A5 /* InvestmentTextView.swift */; };
+		8BC9A78B2B112FE400EE71A5 /* Publishers+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC9A78A2B112FE400EE71A5 /* Publishers+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +52,42 @@
 		8B249E572B0D840200F0BB24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8B249E592B0D840300F0BB24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B249E5C2B0D840300F0BB24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8B249E672B0D852B00F0BB24 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		8B249E692B0D853900F0BB24 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		8B249E6B2B0D854500F0BB24 /* OnboardingBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingBuilder.swift; sourceTree = "<group>"; };
+		8B249E6D2B0D857400F0BB24 /* OnboardingViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewState.swift; sourceTree = "<group>"; };
+		8B249E722B0D876300F0BB24 /* LoaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoaderView.swift; sourceTree = "<group>"; };
+		8B249E752B0D88E600F0BB24 /* Colors+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Colors+Extension.swift"; sourceTree = "<group>"; };
+		8B249E772B0D98A800F0BB24 /* LoaderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoaderViewModel.swift; sourceTree = "<group>"; };
+		8B249E7A2B0D9C0700F0BB24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8B249E7B2B0D9C3C00F0BB24 /* SoftoriumTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SoftoriumTest.entitlements; sourceTree = "<group>"; };
+		8B249E832B0D9E4600F0BB24 /* TradeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeView.swift; sourceTree = "<group>"; };
+		8B249E852B0D9E6600F0BB24 /* TopTradersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopTradersView.swift; sourceTree = "<group>"; };
+		8B249E882B0D9E7900F0BB24 /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
+		8B249E8A2B0D9EA100F0BB24 /* TabsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabsView.swift; sourceTree = "<group>"; };
+		8B249E8C2B0D9EF500F0BB24 /* TabsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabsViewModel.swift; sourceTree = "<group>"; };
+		8B249E8E2B0EAD6900F0BB24 /* TabsBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabsBuilder.swift; sourceTree = "<group>"; };
+		8B249E9C2B0EBE5600F0BB24 /* TraderData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraderData.swift; sourceTree = "<group>"; };
+		8B249E9E2B0EBEEF00F0BB24 /* TopTradersViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopTradersViewModel.swift; sourceTree = "<group>"; };
+		8BC9A75C2B0EEE5300EE71A5 /* TradeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeButton.swift; sourceTree = "<group>"; };
+		8BC9A75E2B0EF0B500EE71A5 /* CurrencyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyView.swift; sourceTree = "<group>"; };
+		8BC9A7602B0EF33F00EE71A5 /* InvestmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvestmentView.swift; sourceTree = "<group>"; };
+		8BC9A7622B0EF3EE00EE71A5 /* TradersBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradersBuilder.swift; sourceTree = "<group>"; };
+		8BC9A7642B0FA76800EE71A5 /* HelperFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperFunc.swift; sourceTree = "<group>"; };
+		8BC9A7662B0FAE6000EE71A5 /* Numeric+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Numeric+Extension.swift"; sourceTree = "<group>"; };
+		8BC9A7682B0FAE8C00EE71A5 /* Formatter+Extnesion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Formatter+Extnesion.swift"; sourceTree = "<group>"; };
+		8BC9A76A2B0FAEA300EE71A5 /* Locale+Extension .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Locale+Extension .swift"; sourceTree = "<group>"; };
+		8BC9A76C2B0FB1DF00EE71A5 /* TraderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraderViewModel.swift; sourceTree = "<group>"; };
+		8BC9A76F2B0FB32300EE71A5 /* CurrencyPairView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyPairView.swift; sourceTree = "<group>"; };
+		8BC9A7712B0FB4D800EE71A5 /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		8BC9A7732B0FB5A400EE71A5 /* CurrencyCases.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCases.swift; sourceTree = "<group>"; };
+		8BC9A7752B0FB7C300EE71A5 /* CurrencyPairViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyPairViewModel.swift; sourceTree = "<group>"; };
+		8BC9A7792B0FBAC200EE71A5 /* CurrencyBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyBuilder.swift; sourceTree = "<group>"; };
+		8BC9A77F2B0FD18A00EE71A5 /* Inter.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Inter.otf; sourceTree = "<group>"; };
+		8BC9A7802B0FD1C800EE71A5 /* Font + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Font + Extension.swift"; sourceTree = "<group>"; };
+		8BC9A7822B100E8A00EE71A5 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		8BC9A7862B102E3400EE71A5 /* InvestmentTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvestmentTextView.swift; sourceTree = "<group>"; };
+		8BC9A78A2B112FE400EE71A5 /* Publishers+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Publishers+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +120,12 @@
 		8B249E542B0D840200F0BB24 /* SoftoriumTest */ = {
 			isa = PBXGroup;
 			children = (
+				8BC9A77D2B0FD10C00EE71A5 /* Font */,
+				8B249E7B2B0D9C3C00F0BB24 /* SoftoriumTest.entitlements */,
+				8B249E7A2B0D9C0700F0BB24 /* Info.plist */,
+				8B249E742B0D88D700F0BB24 /* Extensions */,
+				8B249E712B0D875A00F0BB24 /* CustomViews */,
+				8B249E632B0D850200F0BB24 /* Views */,
 				8B249E552B0D840200F0BB24 /* SoftoriumTestApp.swift */,
 				8B249E572B0D840200F0BB24 /* ContentView.swift */,
 				8B249E592B0D840300F0BB24 /* Assets.xcassets */,
@@ -65,6 +140,116 @@
 				8B249E5C2B0D840300F0BB24 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8B249E632B0D850200F0BB24 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E802B0D9E2000F0BB24 /* TabView */,
+				8B249E662B0D851F00F0BB24 /* Onboarding */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8B249E662B0D851F00F0BB24 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E672B0D852B00F0BB24 /* OnboardingView.swift */,
+				8B249E692B0D853900F0BB24 /* OnboardingViewModel.swift */,
+				8B249E6B2B0D854500F0BB24 /* OnboardingBuilder.swift */,
+				8B249E6D2B0D857400F0BB24 /* OnboardingViewState.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		8B249E712B0D875A00F0BB24 /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E722B0D876300F0BB24 /* LoaderView.swift */,
+				8B249E772B0D98A800F0BB24 /* LoaderViewModel.swift */,
+				8BC9A75C2B0EEE5300EE71A5 /* TradeButton.swift */,
+				8BC9A75E2B0EF0B500EE71A5 /* CurrencyView.swift */,
+				8BC9A7602B0EF33F00EE71A5 /* InvestmentView.swift */,
+				8BC9A7822B100E8A00EE71A5 /* WebView.swift */,
+				8BC9A7862B102E3400EE71A5 /* InvestmentTextView.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		8B249E742B0D88D700F0BB24 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E752B0D88E600F0BB24 /* Colors+Extension.swift */,
+				8BC9A7642B0FA76800EE71A5 /* HelperFunc.swift */,
+				8BC9A7662B0FAE6000EE71A5 /* Numeric+Extension.swift */,
+				8BC9A7682B0FAE8C00EE71A5 /* Formatter+Extnesion.swift */,
+				8BC9A76A2B0FAEA300EE71A5 /* Locale+Extension .swift */,
+				8BC9A7712B0FB4D800EE71A5 /* View+Extension.swift */,
+				8BC9A7802B0FD1C800EE71A5 /* Font + Extension.swift */,
+				8BC9A78A2B112FE400EE71A5 /* Publishers+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		8B249E802B0D9E2000F0BB24 /* TabView */ = {
+			isa = PBXGroup;
+			children = (
+				8BC9A76E2B0FB30D00EE71A5 /* CurrencyPair */,
+				8B249E872B0D9E7200F0BB24 /* Tabs */,
+				8B249E822B0D9E3D00F0BB24 /* Trader */,
+				8B249E812B0D9E2A00F0BB24 /* Top */,
+			);
+			path = TabView;
+			sourceTree = "<group>";
+		};
+		8B249E812B0D9E2A00F0BB24 /* Top */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E852B0D9E6600F0BB24 /* TopTradersView.swift */,
+				8B249E9C2B0EBE5600F0BB24 /* TraderData.swift */,
+				8B249E9E2B0EBEEF00F0BB24 /* TopTradersViewModel.swift */,
+			);
+			path = Top;
+			sourceTree = "<group>";
+		};
+		8B249E822B0D9E3D00F0BB24 /* Trader */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E832B0D9E4600F0BB24 /* TradeView.swift */,
+				8BC9A7622B0EF3EE00EE71A5 /* TradersBuilder.swift */,
+				8BC9A76C2B0FB1DF00EE71A5 /* TraderViewModel.swift */,
+			);
+			path = Trader;
+			sourceTree = "<group>";
+		};
+		8B249E872B0D9E7200F0BB24 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				8B249E882B0D9E7900F0BB24 /* Tabs.swift */,
+				8B249E8A2B0D9EA100F0BB24 /* TabsView.swift */,
+				8B249E8C2B0D9EF500F0BB24 /* TabsViewModel.swift */,
+				8B249E8E2B0EAD6900F0BB24 /* TabsBuilder.swift */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		8BC9A76E2B0FB30D00EE71A5 /* CurrencyPair */ = {
+			isa = PBXGroup;
+			children = (
+				8BC9A76F2B0FB32300EE71A5 /* CurrencyPairView.swift */,
+				8BC9A7732B0FB5A400EE71A5 /* CurrencyCases.swift */,
+				8BC9A7752B0FB7C300EE71A5 /* CurrencyPairViewModel.swift */,
+				8BC9A7792B0FBAC200EE71A5 /* CurrencyBuilder.swift */,
+			);
+			path = CurrencyPair;
+			sourceTree = "<group>";
+		};
+		8BC9A77D2B0FD10C00EE71A5 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				8BC9A77F2B0FD18A00EE71A5 /* Inter.otf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +322,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B249E892B0D9E7900F0BB24 /* Tabs.swift in Sources */,
+				8B249E682B0D852B00F0BB24 /* OnboardingView.swift in Sources */,
+				8BC9A76D2B0FB1DF00EE71A5 /* TraderViewModel.swift in Sources */,
+				8B249E842B0D9E4600F0BB24 /* TradeView.swift in Sources */,
+				8B249E9F2B0EBEEF00F0BB24 /* TopTradersViewModel.swift in Sources */,
+				8BC9A75D2B0EEE5300EE71A5 /* TradeButton.swift in Sources */,
+				8BC9A77A2B0FBAC200EE71A5 /* CurrencyBuilder.swift in Sources */,
+				8BC9A75F2B0EF0B500EE71A5 /* CurrencyView.swift in Sources */,
+				8B249E6E2B0D857400F0BB24 /* OnboardingViewState.swift in Sources */,
+				8BC9A7652B0FA76800EE71A5 /* HelperFunc.swift in Sources */,
+				8B249E8D2B0D9EF500F0BB24 /* TabsViewModel.swift in Sources */,
+				8B249E9D2B0EBE5600F0BB24 /* TraderData.swift in Sources */,
 				8B249E582B0D840200F0BB24 /* ContentView.swift in Sources */,
+				8BC9A78B2B112FE400EE71A5 /* Publishers+Extension.swift in Sources */,
+				8BC9A76B2B0FAEA300EE71A5 /* Locale+Extension .swift in Sources */,
+				8B249E8F2B0EAD6900F0BB24 /* TabsBuilder.swift in Sources */,
+				8BC9A7812B0FD1C800EE71A5 /* Font + Extension.swift in Sources */,
+				8BC9A7672B0FAE6000EE71A5 /* Numeric+Extension.swift in Sources */,
+				8BC9A7612B0EF33F00EE71A5 /* InvestmentView.swift in Sources */,
+				8B249E782B0D98A800F0BB24 /* LoaderViewModel.swift in Sources */,
+				8B249E762B0D88E600F0BB24 /* Colors+Extension.swift in Sources */,
+				8BC9A7692B0FAE8C00EE71A5 /* Formatter+Extnesion.swift in Sources */,
+				8BC9A7832B100E8A00EE71A5 /* WebView.swift in Sources */,
+				8B249E8B2B0D9EA100F0BB24 /* TabsView.swift in Sources */,
+				8B249E732B0D876300F0BB24 /* LoaderView.swift in Sources */,
 				8B249E562B0D840200F0BB24 /* SoftoriumTestApp.swift in Sources */,
+				8BC9A7742B0FB5A400EE71A5 /* CurrencyCases.swift in Sources */,
+				8BC9A7872B102E3400EE71A5 /* InvestmentTextView.swift in Sources */,
+				8B249E6C2B0D854500F0BB24 /* OnboardingBuilder.swift in Sources */,
+				8B249E862B0D9E6600F0BB24 /* TopTradersView.swift in Sources */,
+				8BC9A7762B0FB7C300EE71A5 /* CurrencyPairViewModel.swift in Sources */,
+				8BC9A7702B0FB32300EE71A5 /* CurrencyPairView.swift in Sources */,
+				8BC9A7632B0EF3EE00EE71A5 /* TradersBuilder.swift in Sources */,
+				8BC9A7722B0FB4D800EE71A5 /* View+Extension.swift in Sources */,
+				8B249E6A2B0D853900F0BB24 /* OnboardingViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,17 +487,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SoftoriumTest/SoftoriumTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SoftoriumTest/Preview Content\"";
 				DEVELOPMENT_TEAM = 63RB2V788Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SoftoriumTest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -298,17 +519,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SoftoriumTest/SoftoriumTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SoftoriumTest/Preview Content\"";
 				DEVELOPMENT_TEAM = 63RB2V788Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SoftoriumTest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
